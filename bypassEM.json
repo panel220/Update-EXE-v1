@@ -1,7 +1,7 @@
 {
   "patterns": [
     {
-      "searchPattern": "1C 00 85 E5 00 70 94 E5 C0 50 96 E5 00 00 57 E3 01 00",
+      "searchPattern": "1C 00 85 e5 00 70 94 e5 c0 50 96 e5 00 00 57 e3 01 00 00 1a",
       "operations": [
         {
           "offset": 0,
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "searchPattern": "3C 51 88 E5 00 70 94 E5 CC 50 96 E5 00 00 57",
+      "searchPattern": "3c 51 87 e5 00 70 94 e5 cc 50 96 e5 00 00 57 e3 01 00 00 1a",
       "operations": [
         {
           "offset": 0,
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "searchPattern": "28 01 87 E5 00 70 94 E5 01 10 9F E7 00 00 91 E5 BF 10 D0 E5 02 00 11 E3 03 00 00 0A 70 10 90 E5 00 00 51 E3 00 00 00",
+      "searchPattern": "28 01 87 e5 00 70 94 e5 01 10 9f e7 00 00 91 e5 bf 10 d0 e5",
       "operations": [
         {
           "offset": 0,

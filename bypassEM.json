@@ -29,6 +29,131 @@
           "value": "30"
         }
       ]
+    },
+    {
+      "searchPattern": "01 00 00 e2 10 d0 4b e2 70 8c bd e8 4a fa fa eb",
+      "operations": [
+        {
+          "offset": 0,
+          "type": "bytes",
+          "value": "00"
+        },
+        {
+          "offset": 2,
+          "type": "bytes",
+          "value": "A0"
+        },
+        {
+          "offset": 3,
+          "type": "bytes",
+          "value": "E3"
+        },
+        {
+          "offset": 4,
+          "type": "bytes",
+          "value": "1E"
+        },
+        {
+          "offset": 5,
+          "type": "bytes",
+          "value": "FF"
+        },
+        {
+          "offset": 6,
+          "type": "bytes",
+          "value": "2F"
+        },
+        {
+          "offset": 7,
+          "type": "bytes",
+          "value": "E1"
+        },
+        {
+          "offset": 8,
+          "type": "bytes",
+          "value": "00"
+        },
+        {
+          "offset": 9,
+          "type": "bytes",
+          "value": "00"
+        },
+        {
+          "offset": 10,
+          "type": "bytes",
+          "value": "A0"
+        },
+        {
+          "offset": 11,
+          "type": "bytes",
+          "value": "E3"
+        },
+        {
+          "offset": 12,
+          "type": "bytes",
+          "value": "1E"
+        },
+        {
+          "offset": 13,
+          "type": "bytes",
+          "value": "FF"
+        },
+        {
+          "offset": 14,
+          "type": "bytes",
+          "value": "2F"
+        },
+        {
+          "offset": 15,
+          "type": "bytes",
+          "value": "E1"
+        }
+      ]
+    }
+    {
+      "searchPattern": "3d 72 85 05 ad 37 85 05",
+      "operations": [
+        {
+          "offset": 0,
+          "type": "bytes",
+          "value": "00"
+        },
+        {
+          "offset": 1,
+          "type": "bytes",
+          "value": "00"
+        },
+        {
+          "offset": 2,
+          "type": "bytes",
+          "value": "A0"
+        },
+        {
+          "offset": 3,
+          "type": "bytes",
+          "value": "E3"
+        },
+        {
+          "offset": 4,
+          "type": "bytes",
+          "value": "1E"
+        },
+        {
+          "offset": 5,
+          "type": "bytes",
+          "value": "FF"
+        },
+        {
+          "offset": 6,
+          "type": "bytes",
+          "value": "2F"
+        },
+        {
+          "offset": 7,
+          "type": "bytes",
+          "value": "E1"
+        },
+      ]
     }
   ]
 }

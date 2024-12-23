@@ -1,0 +1,4 @@
+{
+  "search": "B0 B5 02 AF 82 B0 05 46 00 20 B1 F1",
+  "replace": "02 AF 82 B0 04 46 5F F0 0B FF D0 F8"
+}

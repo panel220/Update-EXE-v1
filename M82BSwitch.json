@@ -4,17 +4,17 @@
     {
       "offset": 1,
       "type": "bytes",
-      "value": "3C"
+      "value": "3B"
     },
     {
       "offset": 4,
       "type": "bytes",
-      "value": "F5"
+      "value": "29"
     },
     {
       "offset": 5,
       "type": "bytes",
-      "value": "3C"
+      "value": "3B"
     }
   ]
 }

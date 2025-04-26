@@ -1,15 +1,25 @@
 {
-  "searchPattern": "CC 3D 06 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 41 00 00 48 42 00 00 00 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
+  "searchPattern": "60 40 CD CC 8C 3F 8F C2 F5 3C CD CC CC 3D 06 00 00 00 00 00 00 00 00 00 00 00 00 00 F0 41 00 00 48 42 00 00 00 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
   "operations": [
     {
-      "offset": 8,
+      "offset": 20,
       "type": "bytes",
-      "value": "B1"
+      "value": "F0"
     },
     {
-      "offset": 9,
+      "offset": 21,
       "type": "bytes",
-      "value": "FF"
+      "value": "41"
+    },
+    {
+      "offset": 28,
+      "type": "bytes",
+      "value": "00"
+    },
+    {
+      "offset": 29,
+      "type": "bytes",
+      "value": "00"
     }
   ]
 }

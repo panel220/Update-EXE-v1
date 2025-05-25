@@ -1,6 +1,6 @@
 {
   "Aimbot": false,
-  "SniperScope": false,
+  "SniperScope": true,
   "AWM-N": false,
-  "Camera": false
+  "Camera": true
 }

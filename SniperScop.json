@@ -1,23 +1,23 @@
 {
-  "searchPattern": "00 00 00 00 FF FF FF FF 07 97 03 00 FA 98 03 00 FF FF FF FF 08 00 00 00 00 00 60 40 CD ?? 8C 3F 8F C2 F5 3C CD CC CC 3D ?? 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
+  "searchPattern": "FF FF FF FF 07 97 03 00 FA 98 03 00 FF FF FF FF 08 00 00 00 00 00 60 40 CD CC 8C 3F 8F C2 F5 3C CD CC CC 3D 06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
   "operations": [
     {
-      "offset": 46,
+      "offset": 42,
       "type": "bytes",
       "value": "80"
     },
     {
-      "offset": 47,
+      "offset": 43,
       "type": "bytes",
       "value": "3F"
     },
     {
-      "offset": 62,
+      "offset": 58,
       "type": "bytes",
       "value": "00"
     },
     {
-      "offset": 63,
+      "offset": 59,
       "type": "bytes",
       "value": "00"
     }
